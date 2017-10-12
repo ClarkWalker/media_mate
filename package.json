@@ -39,6 +39,7 @@
     "babel-preset-env": "^2.0.0-beta.2",
     "babel-preset-react": "^7.0.0-beta.2",
     "cp-file": "^5.0.0",
+    "cypress": "^1.0.1",
     "del": "^3.0.0",
     "devtron": "^1.4.0",
     "electron": "1.8.1",
